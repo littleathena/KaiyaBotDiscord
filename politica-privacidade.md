@@ -31,3 +31,7 @@ Não compartilhamos, vendemos, alugamos ou trocamos seus dados seja com terceiro
 ## Por quanto tempo amarzenamos seus dados
 
 Tentamos sempre removelos quando você mostra inatividade na bot, você também pode optar para removemos entrando no servidor de suporte e contando o suporte.
+
+## Menores de idade
+
+Menores de 13 anos e não tem seus dados salvos intencionalmente, se soubermos que coletamos ou recebemos dados de uma criança menor de idade sem consentimento dos pais iremos excluir essa informação.

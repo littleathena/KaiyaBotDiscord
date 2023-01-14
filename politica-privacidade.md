@@ -8,6 +8,6 @@ Você quer manter informações pessoais seguras e nossa equipe leva isso muito 
 
 ## Quais dados a Kaiya coleta 
 
-Ela coleta do discord quando você interagi com nossa bot discord o seguinte dado:
+Coletamos do discord quando você interagi com nossa bot discord o seguinte dado:
 
-ID do usuário
+> ID do usuário

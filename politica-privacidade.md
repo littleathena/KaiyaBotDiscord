@@ -24,3 +24,10 @@ Protegemos seus dados contra o acesso, a alteração ou destruição não autori
 
 Divulgar dados que coletamos sobre você somente para aplicação da lei em resposta a uma intimação válida, ordem judicial, mandado ou ordem governamental semelhante, ou quando acreditarmos de boa fé que a divulgação é razoavelmente necessária para proteger nossos propriedade ou direitos, ou de terceiros ou do público em geral, temos o dever de cumprir ordens judiciais e processos legais semelhantes, temos foco na transparência, quando permitidos, faremos um esforço razoável para notificar os usuários sobre qualquer divulgação de suas informações, a menos que sejamos proibidos por lei ou ordem judicial de fazê-lo, ou em circunstâncias raras e exigentes.
 
+## Compartilhando seus dados
+
+Não compartilhamos, vendemos, alugamos ou trocamos seus dados seja com terceiros ou para fins comerciais.
+
+## Por quanto tempo amarzenamos seus dados
+
+Tentamos sempre removelos quando você mostra inatividade na bot, você também pode optar para removemos entrando no servidor de suporte e contando o suporte.

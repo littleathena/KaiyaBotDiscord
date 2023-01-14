@@ -34,4 +34,4 @@ Tentamos sempre removelos quando você mostra inatividade na bot, você também 
 
 ## Menores de idade
 
-Menores de 13 anos e não tem seus dados salvos intencionalmente, se soubermos que coletamos ou recebemos dados de uma criança menor de idade sem consentimento dos pais iremos excluir essa informação.
+Menores de 13 anos não tem seus dados salvos intencionalmente, se soubermos que coletamos ou recebemos dados de uma criança menor de idade sem consentimento dos pais iremos excluir essa informação.

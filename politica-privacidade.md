@@ -39,5 +39,6 @@ Menores de 13 anos não tem seus dados salvos intencionalmente, se soubermos que
 
 ## Meios de falar com nosso suporte
 
-Servidor:
+Servidor: https://discord.gg/YafJZ8U9pM
+
 Gmail: anonimatobrc@gmail.com

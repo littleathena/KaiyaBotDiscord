@@ -5,3 +5,9 @@ Kaiya é uma bot de parcerias com uma maneira simples de rastrear parcerias dent
 ## Política de Privacidade
 
 Você quer manter informações pessoais seguras e nossa equipe leva isso muito a sério queremos a proteção de nossos usuários.
+
+## Quais dados a Kaiya coleta 
+
+Ela coleta do discord quando você interagi com nossa bot discord o seguinte dado:
+
+ID do usuário
